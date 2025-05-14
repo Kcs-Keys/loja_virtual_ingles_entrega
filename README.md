@@ -1,11 +1,11 @@
-# Loja Virtual de Inglês
+# Loja Virtual
 
 Este é um projeto de loja virtual com front-end em React e back-end em Node.js com SQLite. Ele foi desenvolvido para fins educacionais.
 
 ## 📁 Estrutura do Projeto
 
 ```
-loja_virtual_ingles/
+loja_virtual/
 │
 ├── backend/            # API REST (Node.js + Express + SQLite)
 │   ├── config/         # Configuração do banco de dados
@@ -16,7 +16,7 @@ loja_virtual_ingles/
 │   ├── server.js       # Inicia o servidor
 │   └── package.json    # Configuração do projeto Node.js
 │
-├── project/            # Front-end em React (já existente)
+├── project/            # Front-end em React
 │
 └── README.md           # Este arquivo
 ```
@@ -77,13 +77,3 @@ O front-end estará disponível em `http://localhost:3000` e se comunicará com 
 - Express
 - SQLite
 - JavaScript
-
----
-
-## 📦 Pronto para entrega
-
-A estrutura está empacotada e pronta para uso. Basta extrair o `.zip` e seguir os passos acima.
-
----
-
-Desenvolvido para fins educacionais.
